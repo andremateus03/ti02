@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: Microsoft Azure SDK for Cognitive Service Computer 
+ Vision
+Specification-Version: 1.0
+Specification-Vendor: Microsoft Corporation
+Implementation-Title: Microsoft Azure SDK for Cognitive Service Computer
+  Vision
+Implementation-Version: 1.0.9-beta
+Implementation-Vendor: Microsoft Corporation
+Created-By: Maven Integration for Eclipse
+
